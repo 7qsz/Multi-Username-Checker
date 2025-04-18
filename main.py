@@ -19,7 +19,7 @@ print(fade.fire("""
 
 Title = "MULTI-PLATFORM CHECKER"
 print(Title)
-print("v1 | @rxyuhq ")
+print("v1 | @Capuilet ")
 time.sleep(.5)
 
 K4 = int(input(Fore.WHITE+"""
